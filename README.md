@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Gabriel Valeriano, a 20-year-old Brazillian developer! I really enjoy building and studying user-interfaces and general front-end applications, it's my main thing, but I also enjoy building APIs.
+I'm Gabriel Valeriano, a 21-year-old Brazillian developer! I really enjoy building and studying user-interfaces and general front-end applications, it's my main thing, but I also enjoy building APIs.
 ### 🙂 Pronouns
 He/Him
 ### 🌱 What do I do?
